@@ -1,6 +1,6 @@
 # Neural Net Using Brain.js
 
-Experiment with neural nets using brain.js. Teaches program what an AND, OR and XOR operations.
+Experiment with neural nets using brain.js. Teaches program AND, OR and XOR operations.
 
 ###Getting Started###
 
