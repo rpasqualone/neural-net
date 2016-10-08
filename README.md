@@ -22,3 +22,11 @@ Click [here](https://github.com/rpasqualone/neural-net/archive/master.zip) then 
 ```
 	> open index.html
 ```
+
+###Demo###
+
+To view a live demo click [here](https://rpasqualone.github.io/neural-net/) or visit:
+
+```
+	> https://rpasqualone.github.io/neural-net/
+```
