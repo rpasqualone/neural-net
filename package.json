@@ -1,0 +1,23 @@
+{
+  "name": "neural-net",
+  "version": "1.0.0",
+  "description": "Experiment with neural nets using brain.js. Teaches program AND, OR and XOR operations.",
+  "main": "brain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpasqualone/neural-net.git"
+  },
+  "author": "Richard Pasqualone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpasqualone/neural-net/issues"
+  },
+  "homepage": "https://github.com/rpasqualone/neural-net#readme",
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  }
+}
